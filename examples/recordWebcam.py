@@ -10,8 +10,8 @@ frame_height = int(cap.get(4))
 size = (frame_width, frame_height)
 
 result = cv2.VideoWriter('examples/video/record.avi',
-                         cv2.VideoWriter_fourcc(*'MJPG'),
-                         30, size)
+                        cv2.VideoWriter_fourcc(*'MJPG'),
+                        30, size)
 
 while True:
     # baca tiap frame dari kamera
