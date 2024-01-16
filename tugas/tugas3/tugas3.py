@@ -18,7 +18,7 @@ if opt.useCuda:
     print("sending model to car")
     model.to('car')
 
-# Open the webcam
+# Open the video
 cap = cv2.VideoCapture("/Users/dans/Library/CloudStorage/OneDrive-InstitutTeknologiSepuluhNopember/InternBayucaraka/task-opencv/MagangBayu2024-OpenCV/tugas/tugas3/road.mp4")
 frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
