@@ -4,4 +4,4 @@ Untuk tugas tiga kalian bebas mau buat apa. Sesuai kreativitas kalian masing mas
 
 object detection untuk mendekeksi mobil
 untuk hasil nya ada drive berikut
-https://drive.google.com/drive/folders/1o0dWD7wdT4XyU_Q5zuJTFUhFhYoML09a?usp=sharing
+https://drive.google.com/file/d/1a4biUrp49g6DHgefbw9XAK3Fvb8QR4EV/view?usp=sharing
